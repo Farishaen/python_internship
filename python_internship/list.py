@@ -1,0 +1,10 @@
+#list1=["banana","apple","cherry",25]
+#print(list1)
+#print(list1[3])
+#
+list2=["fathima","siya","farisha"]
+#print(list2)
+#print(list2[2])
+#print(list2[0:4])
+#print(len(list2))
+print(type(list2))

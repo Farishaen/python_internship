@@ -1,0 +1,6 @@
+# f=open('test.txt',"r")
+# print(f.read())
+f=open("self.txt","r")
+print(f.read())
+file=open("sample.txt","w")
+file.write("hello i am from kakkanad")

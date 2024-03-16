@@ -1,0 +1,5 @@
+tuple1=("farisha","kr","siya",12,34,56)
+#print(tuple1)
+#print(tuple1[1])
+#print(len(tuple1))
+print(type(tuple1))
